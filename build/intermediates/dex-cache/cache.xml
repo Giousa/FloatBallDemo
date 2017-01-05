@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_73044d57357be499e615a8e01156864005d01377\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_ee7d473c9f7bc30a686d479fdaad090cb419d192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Develop\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_f11788470d192b7d03329fc9181a71bc7817bfbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1aef420041eef5f3376ee06391804a6c3fb1675">
+        <dex dex="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_97fe2b4e428af933d6ff452a7e3e6dc3cb239671\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3703f4765458240e888189b0727e18683089957">
+        <dex dex="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22b05b5ecb88787356f46394cfef0084c3b734ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\CodeResources\Workspaces2\FloatBall-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_a84d1ee4f06fa50c1d4d1d24e230bbc9ff25d097\classes.dex" />
+    </item>
+
+</items>
